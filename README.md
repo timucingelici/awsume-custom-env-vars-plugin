@@ -1,0 +1,1 @@
+# awsume-extra-environment-variables-plugin
